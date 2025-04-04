@@ -1,7 +1,44 @@
-# odin-recipes
+# 🍽️ Odin Recipes Project
 
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+## 👋 Introduction
 
-This project is a basic recipe website in order to apply basic HTML skills like building a boiler plate, links, lists, and images.
+Welcome to my very first project on GitHub!  
+This project is part of **The Odin Project's** Foundation curriculum, designed to help me learn and apply fundamental skills in **HTML**. It's a basic recipe website — and my first step into the world of web development!
 
-By completing this project, I have demonstrated basic bare bones ability to understand HTML structure and visualize the framework of a site for placement of elements.  I have learned very simply how to use Git as version control and work with pushing to GitHub.
+
+## 🛠 Tools & Technologies
+
+I used the following tools and technologies to complete this project:
+
+- 🧱 **HTML5**
+- 💻 **Visual Studio Code** (VSC)
+- 🐧 **WSL2 (Ubuntu)** via Terminal
+- 🌐 **Git** & **GitHub** for version control
+
+
+## 🎯 Objectives
+
+The main goals of this project were to:
+
+- Create a basic recipe website using pure HTML.
+- Build 4 HTML pages:  
+  📄 1 index page  
+  🍜 3+ individual recipe pages  
+- Practice core HTML features:
+  - Boilerplate structure
+  - Paragraphs, headings, and lists
+  - Images and links
+- Get comfortable with using Git from the command line and pushing to GitHub.
+
+
+## 🚀 What I Learned
+
+By completing this project, I gained:
+
+- A strong foundation in writing and structuring HTML
+- An understanding of how to link between pages
+- Confidence using Git for version control
+- The ability to deploy a basic site using GitHub Pages
+
+
+> This README will be updated with additional details and reflections as I continue improving the project.
