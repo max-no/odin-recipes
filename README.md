@@ -3,7 +3,7 @@
 ## 👋 Introduction
 
 Welcome to my very first project on GitHub!  
-This project is part of **The Odin Project's** Foundation curriculum, designed to help me learn and apply fundamental skills in **HTML**. It's a basic recipe website — and my first step into the world of web development!
+This project is part of **The Odin Project's** Foundation curriculum, designed to help me learn and apply fundamental skills in **HTML**. It's a basic recipe website and my first step into the world of web development.
 
 
 ## 🛠 Tools & Technologies
@@ -12,7 +12,6 @@ I used the following tools and technologies to complete this project:
 
 - 🧱 **HTML5**
 - 💻 **Visual Studio Code** (VSC)
-- 🐧 **WSL2 (Ubuntu)** via Terminal
 - 🌐 **Git** & **GitHub** for version control
 
 
