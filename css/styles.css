@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif, "Times New Roman", Verdana;
+    background-color: rgb(255, 243, 224);
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.home-header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+    padding: 4px;
+    width: 250px;
+}
+
+.homepage-list a {
+    color: white;
+    background-color: black;
+    padding: 4px;
+    margin: 0px auto;
+}
+
+.homepage-list li {
+    margin: 4px;
+}
+
+.bread-header {
+    font-size: 32px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.bread-pic {
+    display: block;
+    margin: 4px auto;
+    height: 300px;
+    width: auto;
+}
+
+div.bread-description-div {
+    background-color: lightblue;
+    color: black;
+    padding: 4px 4px;
+    border: 2px dotted black;
+    margin: 8px;
+}
+
+.bread-description-div h2,
+.bread-description-div p {
+    margin: 0px auto;
+}
+
+.bread-body h2 {
+    text-align: center;
+}
+
+div.ingredients-steps {
+    background-color: aliceblue;
+    padding: 24px;
+    margin: 12px;
+}
+
+.ingredients-steps h2, .ingredients-steps ul {
+    margin: 0px auto;
+}
+
+.ingredients-box {
+    background-color: rgba(144, 214, 241, 0.886);
+    padding: 8px;
+    margin-bottom: 4px;
+    border: 4px dashed black;
+}
+
+.ingredients-box h2 {
+    margin-bottom: 4px;
+}
